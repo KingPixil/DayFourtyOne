@@ -1,0 +1,14 @@
+body {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: black;
+}
+
+#container {
+    padding-bottom: 36px;
+}
+
+canvas {
+    vertical-align: bottom;
+    cursor: pointer;
+}
